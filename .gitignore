@@ -2,5 +2,4 @@ public
 node_modules
 .cache
 .env.development
-.env.production
 .env

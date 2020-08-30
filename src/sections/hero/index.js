@@ -38,7 +38,7 @@ class Hero extends React.Component {
                 }}
               />
               <button className="hover-button">
-                  <span>Currículo</span>
+                  <span onClick={() => window.open('http://bit.ly/meus-curriculos')}>Currículo</span>
               </button>
             </div>
             {this.icons()}

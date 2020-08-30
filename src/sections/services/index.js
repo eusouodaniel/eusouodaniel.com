@@ -89,7 +89,7 @@ class Services extends React.Component {
               </div>
               <h4>React e Vue</h4>
               <p>
-                Adentrei no universo do frontend recentemente, porém tá sendo o foco dos meus estudos ultimamente e acho simplesmente fantástico.
+                Ultimamente tenho focado todos os meus estudos na área de frontend, mais especificamente esses dois frameworks que estão em crescente no mercado.
               </p>
             </AnimationContainer>
           </Col>
@@ -100,7 +100,7 @@ class Services extends React.Component {
               </div>
               <h4>Docker</h4>
               <p>
-                Todas as minhas aplicações rodam em container, o que facilita muito o desenvolvimento local e também a publicação em produção, aumentando a produtividade
+                Aplicações rodando em container, para facilitação do desenvolvimento local e também para publicação em produção, aumentando a produtividade.
               </p>
             </AnimationContainer>
           </Col>
@@ -111,7 +111,7 @@ class Services extends React.Component {
               </div>
               <h4>AWS Management e Azure</h4>
               <p>
-                Experiência com configuração de servidores AWS e Azure, usando serviços como ECR, EKS, EC2 no caso da Amazon e similares na Azure(AKS, ACR).
+                Experiência com configuração de servidores AWS e Azure, utilizando serviços como ECR, EKS, EC2 no caso da Amazon e similares na Azure(AKS, ACR).
               </p>
             </AnimationContainer>
           </Col>
@@ -122,7 +122,7 @@ class Services extends React.Component {
               </div>
               <h4>Kubernetes</h4>
               <p>
-                Configuração de serviços do Kubernetes para maior escabilidade dos servidores
+                Configuração de serviços do Kubernetes para maior escabilidade dos servidores.
               </p>
             </AnimationContainer>
           </Col>
@@ -133,7 +133,7 @@ class Services extends React.Component {
               </div>
               <h4>Chatbots</h4>
               <p>
-                Larga experiência com desenvolvimento de chatbots, implementando fluxos conversacionais utilizando a plataforma BLiP
+                Larga experiência com desenvolvimento de chatbots, implementando fluxos conversacionais utilizando a plataforma BLiP.
               </p>
             </AnimationContainer>
           </Col>
@@ -144,7 +144,7 @@ class Services extends React.Component {
               </div>
               <h4>Node.JS</h4>
               <p>
-                Experiência com node e alguns frameworks como Express e Adonis. E boas práticas também, utilizando princípios do SOLID no desenvolvimento.
+                Experiência com Node e alguns frameworks como Express e Adonis, utilizando das boas práticas também, como os princípios do SOLID no desenvolvimento, para entregar um código robusto e escalável.
               </p>
             </AnimationContainer>
           </Col>

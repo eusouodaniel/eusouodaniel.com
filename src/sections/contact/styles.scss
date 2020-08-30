@@ -72,15 +72,12 @@
                         border-bottom: 1px solid red;
                     }
                 }
-            }
-        }
-        .map {
-            padding: 0;
-            iframe {
-                border: none;
-            }
-            @media (max-width: 991px) {
-                margin-top: 50px;
+                .send-error {
+                    color: red;
+                }
+                .send-success {
+                    color: green;
+                }
             }
         }
     }

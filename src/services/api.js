@@ -1,6 +1,8 @@
 
 import axios from 'axios';
 
-const Api = axios.create({baseURL: process.env.GATSBY_API_URL})
+const BASE_URL='http://api.eusouodaniel.com';
+
+const Api = axios.create({baseURL: BASE_URL})
 
 export default Api;

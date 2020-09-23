@@ -37,6 +37,7 @@
     "react-bootstrap": "^1.0.0-beta.17",
     "react-countup": "^4.3.3",
     "react-dom": "^16.13.0",
+    "react-fullstory": "^1.4.0",
     "react-in-viewport": "^1.0.0-alpha.11",
     "react-particles-js": "^2.7.1",
     "react-scrolllock": "^5.0.1",
